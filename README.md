@@ -414,24 +414,3 @@ Today the attendance marking in institutions happen manually. As we observe, it 
 
 </aside>
 
-<footer>
-
-<div class="container">
-
-<div class="row">
-
-<div class="col-md-9 text-left"><span class="copyright">Copyright © Department of Computer Engineering 2016 : Code from [Ishan Madushanka](https://github.com/imadx/es_projecs_site)</span></div>
-
-<div class="col-md-3 text-right">
-
-*   [](#)
-*   [](#)
-*   [](#)
-
-</div>
-
-</div>
-
-</div>
-
-</footer>
