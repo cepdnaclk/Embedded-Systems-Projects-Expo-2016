@@ -1,31 +1,6 @@
-<nav class="navbar navbar-default navbar-fixed-top">
-
-<div class="container">
-
-<div class="navbar-header page-scroll"><button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1"><span class="sr-only">Toggle navigation</span> <span class="icon-bar"></span><span class="icon-bar"></span><span class="icon-bar"></span></button>[Embedded Systems Projects 2016](#page-top)</div>
 
 
-
-</div>
-
-</nav>
-
-<header>
-
-
-<canvas id="canvas" width="1024" height="0" style="background-color:none"></canvas>
-
-</header>
-
-<section id="overview">
-
-<div class="container">
-
-<div class="row">
-
-<div class="col-lg-12 text-center">
-
-## Embedded Systems Projects Expo 2016
+## E12 batch projects
 
 ## Overview
 
