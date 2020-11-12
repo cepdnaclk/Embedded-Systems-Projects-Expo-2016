@@ -22,9 +22,9 @@
 
 <div class="intro-text">
 
-<div class="intro-lead-in">E12 batch presents</div>
 
-<div class="intro-heading">Embedded Systems Projects</div>
+
+
 
 [Browse Projects](#overview)</div>
 
