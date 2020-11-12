@@ -12,17 +12,6 @@
 
 <header>
 
-<div class="container">
-
-<div class="intro-text">
-
-
-
-
-
-[Browse Projects](#overview)</div>
-
-</div>
 
 <canvas id="canvas" width="1024" height="0" style="background-color:none"></canvas>
 
