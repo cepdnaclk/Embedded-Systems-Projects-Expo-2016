@@ -36,12 +36,6 @@ Embedded Systems became a core course with the latest syllabus update that happe
 
 <div id="project_1" class="row project_item">
 
-<div class="col-sm-6 project_preview">
-
-<div class="embed-responsive embed-responsive-16by9"><iframe class="embed-responsive-item" src="https://www.youtube.com/embed/-kYK6lAeVCs" allowfullscreen="" height="315" frameborder="0"></iframe></div>
-
-</div>
-
 <div class="col-sm-6 project_description container">
 
 <div class="container wrapper_details col-sm-12">
@@ -59,12 +53,6 @@ Today many have pets. However, due to their busy lifestyles, they can't afford t
 </div>
 
 <div id="project_2" class="row project_item">
-
-<div class="col-sm-6 project_preview">
-
-<div class="embed-responsive embed-responsive-16by9"><iframe class="embed-responsive-item" src="https://www.youtube.com/embed/gYkJwuBF3V0" allowfullscreen="" height="315" frameborder="0"></iframe></div>
-
-</div>
 
 <div class="col-sm-6 project_description">
 
