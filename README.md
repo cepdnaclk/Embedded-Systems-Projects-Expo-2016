@@ -389,11 +389,7 @@ Today the attendance marking in institutions happen manually. As we observe, it 
 
 <div class="container">
 
-<div class="row">
 
-<div class="col-md-4 col-md-offset-4 col-sm-6 col-sm-offset-3">[![](img/logos/aces.png)](#) </div>
-
-</div>
 
 </div>
 
