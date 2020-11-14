@@ -75,6 +75,7 @@ Taking medicine regularly has become a general practice and an essential activit
 <div class="col-sm-6 project_preview">
 
 <div class="embed-responsive embed-responsive-16by9"><iframe src="https://www.youtube.com/embed/xAEnHeIjQlg" allowfullscreen="" width="560" height="315" frameborder="0"></iframe></div>
+("https://www.youtube.com/embed/xAEnHeIjQlg")
 
 </div>
 
