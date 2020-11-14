@@ -74,8 +74,7 @@ Taking medicine regularly has become a general practice and an essential activit
 
 <div class="col-sm-6 project_preview">
 
-<div class="embed-responsive embed-responsive-16by9"><iframe src="https://www.youtube.com/embed/xAEnHeIjQlg" allowfullscreen="" width="560" height="315" frameborder="0"></iframe></div>
-[project preview]("https://www.youtube.com/embed/xAEnHeIjQlg")
+https://www.youtube.com/embed/xAEnHeIjQlg
 
 </div>
 
@@ -99,7 +98,7 @@ Up to date, Facebook has 5,000,000 monthly users for FarmVille which is a virtua
 
 <div class="col-sm-6 project_preview">
 
-<div class="embed-responsive embed-responsive-16by9"><iframe src="https://www.youtube.com/embed/1IyHO6gOqXo" allowfullscreen="" width="560" height="315" frameborder="0"></iframe></div>
+https://www.youtube.com/embed/1IyHO6gOqXo
 
 </div>
 
