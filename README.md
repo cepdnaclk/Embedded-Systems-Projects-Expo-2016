@@ -122,8 +122,7 @@ We made a “Smart Piggy Bank”, an electronic coin saving device. Traditional 
 
 <div class="col-sm-6 project_preview">
 
-<div class="embed-responsive embed-responsive-16by9"><iframe src="https://www.youtube.com/embed/FuYLXxMQNOM" allowfullscreen="" width="560" height="315" frameborder="0"></iframe></div>
-
+https://www.youtube.com/
 </div>
 
 <div class="col-sm-6 project_description">
@@ -146,7 +145,7 @@ This is a Virtual LED display using a set of LED strips which is rotating at a h
 
 <div class="col-sm-6 project_preview">
 
-<div class="embed-responsive embed-responsive-16by9"><iframe class="embed-responsive-item" src="https://www.youtube.com/embed/-JzzgZtNpNE" allowfullscreen="" height="315" frameborder="0"></iframe></div>
+https://www.youtube.com/embed/-JzzgZtNpNE
 
 </div>
 
@@ -170,8 +169,7 @@ The traditional approach of posting notices with paperwork in noticeboard is not
 
 <div class="col-sm-6 project_preview">
 
-<div class="embed-responsive embed-responsive-16by9"><iframe src="https://www.youtube.com/embed/ULx7KdlW72U" allowfullscreen="" width="560" height="315" frameborder="0"></iframe></div>
-
+https://www.youtube.com/embed/ULx7KdlW72U
 </div>
 
 <div class="col-sm-6 project_description">
@@ -194,7 +192,7 @@ Today robotic arms are an essential part of human life. In our project, we devel
 
 <div class="col-sm-6 project_preview">
 
-<div class="embed-responsive embed-responsive-16by9"><iframe class="embed-responsive-item" src="https://www.youtube.com/embed/cIO_ACZR2d4" allowfullscreen="" height="315" frameborder="0"></iframe></div>
+https://www.youtube.com/embed/cIO_ACZR2d4
 
 </div>
 
@@ -218,7 +216,7 @@ The goal of this project is to automate the light conditions in a factory by tur
 
 <div class="col-sm-6 project_preview">
 
-<div class="embed-responsive embed-responsive-16by9"><iframe class="embed-responsive-item" src="https://www.youtube.com/embed/DCaCqIOnyw4" allowfullscreen="" height="315" frameborder="0"></iframe></div>
+https://www.youtube.com/embed/DCaCqIOnyw4
 
 </div>
 
@@ -242,7 +240,7 @@ We developed this product to print images on paper in grayscale by burning paper
 
 <div class="col-sm-6 project_preview">
 
-<div class="embed-responsive embed-responsive-16by9"><iframe class="embed-responsive-item" src="https://www.youtube.com/embed/2SljrjQL_Lo" allowfullscreen="" height="315" frameborder="0"></iframe></div>
+https://www.youtube.com/embed/2SljrjQL_Lo
 
 </div>
 
@@ -266,7 +264,7 @@ In this project, our aim is to introduce a wearable device and a data visualisat
 
 <div class="col-sm-6 project_preview">
 
-<div class="embed-responsive embed-responsive-16by9"><iframe class="embed-responsive-item" src="https://www.youtube.com/embed/wQ619hZXnwk" allowfullscreen="" height="315" frameborder="0"></iframe></div>
+https://www.youtube.com/embed/wQ619hZXnwk
 
 </div>
 
@@ -290,7 +288,7 @@ Since people have busy schedules and hectic lifestyles, they do not have enough 
 
 <div class="col-sm-6 project_preview">
 
-<div class="embed-responsive embed-responsive-16by9"><iframe class="embed-responsive-item" src="https://www.youtube.com/embed/IivW9sGjQfI" allowfullscreen="" height="315" frameborder="0"></iframe></div>
+https://www.youtube.com/embed/IivW9sGjQfI
 
 </div>
 
@@ -313,8 +311,7 @@ Line following robots often refers to robots which detect and follow lines in pr
 <div id="project_13" class="row project_item">
 
 <div class="col-sm-6 project_preview">
-
-<div class="embed-responsive embed-responsive-16by9"><iframe src="https://www.youtube.com/embed/qLJdlxPBE1M" allowfullscreen="" width="560" height="315" frameborder="0"></iframe></div>
+https://www.youtube.com/embed/qLJdlxPBE1M
 
 </div>
 
@@ -338,7 +335,7 @@ During the last few years, the number of domestic robots has increased dramatica
 
 <div class="col-sm-6 project_preview">
 
-<div class="embed-responsive embed-responsive-16by9"><iframe src="https://www.youtube.com/embed/ow1IkOC8fyY" allowfullscreen="" width="560" height="315" frameborder="0"></iframe></div>
+https://www.youtube.com/embed/ow1IkOC8fyY
 
 </div>
 
@@ -362,7 +359,7 @@ In this project, we are monitoring and controlling a Greenhouse digitally and re
 
 <div class="col-sm-6 project_preview">
 
-<div class="embed-responsive embed-responsive-16by9"><iframe src="https://www.youtube.com/embed/VBxTyC2n5oo" allowfullscreen="" width="560" height="315" frameborder="0"></iframe></div>
+https://www.youtube.com/embed/VBxTyC2n5oo
 
 </div>
 
